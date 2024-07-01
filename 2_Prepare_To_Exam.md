@@ -22,8 +22,7 @@ Skills measured
 
 ## Reference books
 - Exam Ref AZ-900 Microsoft Azure Fundamentals, 2nd Edition | Microsoft Press
-  - Microsoft Press
-  - [available to buy](https://bit.ly/AZ900ExamRef)
+  - Microsoft Press [available to buy](https://bit.ly/AZ900ExamRef)
 
 
 ## Test your knowledge
