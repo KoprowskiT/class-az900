@@ -12,6 +12,7 @@ You should have skills and experience working with an area of IT, such as:
 - Infrastructure management
 - Database management
 - Software development
+
 You may be eligible for ACE college credit if you pass this certification exam. See [ACE college credit for certification](https://learn.microsoft.com/en-us/credentials/certifications/college-credit)
 
 Skills measured
